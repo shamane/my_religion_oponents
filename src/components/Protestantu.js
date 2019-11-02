@@ -19,7 +19,17 @@ function Protestantu() {
           <li>харизмати</li>
           <li>реставраціонізм</li>
           <li>соцініани, або польські брати</li>
-         </ul>
+          <li>
+            свідки єгови
+            <ul>
+              <li><a href="https://dyvensvit.org/top/1022793/">https://dyvensvit.org/top/1022793/ - ВІДПОВІДІ НА ЧАСТІ ЗАКИДИ СВІДКІВ ЄГОВИ</a></li>
+            </ul>
+          </li>
+        </ul>
+
+        <ul>
+          <li><a href="http://kmc.media/2019/09/29/yaka-riznycya-mizh-protestantamy-ta-katolykamy.html">http://kmc.media/2019/09/29/yaka-riznycya-mizh-protestantamy-ta-katolykamy.html - ЯКА РІЗНИЦЯ МІЖ ПРОТЕСТАНТАМИ ТА КАТОЛИКАМИ?</a></li>
+        </ul>
       </div>
     </>
   );
